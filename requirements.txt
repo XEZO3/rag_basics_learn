@@ -1,0 +1,11 @@
+langchain_openai
+langchain_core
+langchain_chroma
+pydantic
+openai
+langchain_text_splitters
+langchain
+langsmith
+langchain_community
+langchain_postgres
+numpy
